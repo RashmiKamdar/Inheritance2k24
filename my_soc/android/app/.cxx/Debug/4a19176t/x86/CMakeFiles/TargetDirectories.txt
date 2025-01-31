@@ -1,0 +1,2 @@
+E:/VJTI/MySoc/my_soc/android/app/.cxx/Debug/4a19176t/x86/CMakeFiles/edit_cache.dir
+E:/VJTI/MySoc/my_soc/android/app/.cxx/Debug/4a19176t/x86/CMakeFiles/rebuild_cache.dir
